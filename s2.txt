@@ -1,4 +1,0 @@
-dog cat
-pig dog
-bird ham
-ham pig
